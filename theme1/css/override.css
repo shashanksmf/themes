@@ -1,0 +1,13 @@
+.theme_btn:before {
+    background: #f16a2e;
+}
+.new-tittle {
+    text-align: center;
+}
+
+.servicess {
+    display: block;
+    font: 600 18px/1 "Source Sans Pro", sans-serif;
+    color: #000;
+    padding-top: 40px;
+}
